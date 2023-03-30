@@ -24,7 +24,7 @@ StarHome é uma empresa de ferramentas eletrônicas para casa inteligente. É ba
 Isabella Tiago Abra da Cunha
 Nubia de Sousa Carvalho
 <div align="center">
-<img src="https://user-images.githubusercontent.com/128197236/228932437-4632d5e3-381a-441b-9d46-68386dcfaf3f.jpeg" width="500px" />
+<img src="https://user-images.githubusercontent.com/128197236/228932437-4632d5e3-381a-441b-9d46-68386dcfaf3f.jpeg" width="100px" />
 </div>
 
 
