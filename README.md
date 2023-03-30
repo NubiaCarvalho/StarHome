@@ -6,6 +6,7 @@ StarHome é uma empresa de ferramentas eletrônicas para casa inteligente. É ba
 ## Funcionalidades
 
 ##Tecnologias utilizadas
+```
 ● Microsoft Teams;
 ● Jira;
 ● SQL Server
@@ -15,6 +16,7 @@ StarHome é uma empresa de ferramentas eletrônicas para casa inteligente. É ba
 
 
 ## Colaboradores
+```
 Isabella Tiago Abra da Cunha
 Nubia de Sousa Carvalho
 ##
