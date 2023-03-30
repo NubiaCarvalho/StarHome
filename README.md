@@ -4,6 +4,9 @@
 ## Sobre nós
 StarHome é uma empresa de ferramentas eletrônicas para casa inteligente. É baseada em um mecanismo com ativação de voz, no qual os produtos são: Smart Speakers, lâmpadas smart, entre outros produtos inteligentes. Nossa empresa surgiu há 7 meses atrás, com a ideia inicial de criar novos produtos inteligentes e mais acessíveis para o nosso público, que envolve principalmente pessoas que desejam ter um ambiente inteligente que atende a comandos de voz, criando conforto e facilidade. Após 7 meses, continuamos com os mesmos ideais de vender produtos para facilitar e criar um ambiente inteligente, porém estamos cada vez mais expandindo nossos limites e estudando novas possibilidades de smart products.
 
+## Tecnologias
+  Como falamos anteriormente, nossos produtos são focados em oferecer um ambiente inteligente, ou seja, trabalhamos com assistentes virtuais (Star), Vocca (adaptadores de lâmpadas para resposta automática a comandos de voz), tomadas inteligentes, smart watchs, fitas LEDs, entre outros produtos disponíveis no nosso site. Todos nossos produtos são compatíveis com nosso assistente virtual Star.
+
 ## Funcionalidades
 ```
 1. Apresentação de produtos pelo site
@@ -13,7 +16,7 @@ StarHome é uma empresa de ferramentas eletrônicas para casa inteligente. É ba
 ```
 
 
-## Tecnologias utilizadas
+## Ferramentas utilizadas para etapas de DevOps (criação do site)
 ```
 1. Plan: Microsoft Teams
 2. Code: Atom (linguagem JavaScript) 
