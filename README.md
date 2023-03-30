@@ -13,10 +13,11 @@ StarHome é uma empresa de ferramentas eletrônicas para casa inteligente. É ba
 ● Linguagem Java
 ● React
 ● Java Script
-
+```
 
 ## Colaboradores
 ```
 Isabella Tiago Abra da Cunha
 Nubia de Sousa Carvalho
+```
 ##
