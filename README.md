@@ -34,6 +34,8 @@ Isabella Tiago Abra da Cunha:
 <img src="https://user-images.githubusercontent.com/128197236/228934787-b621ada2-7ce9-49dd-ba92-1e8183587487.jpeg" width="200px" />
 </div>
 
+⠀⠀⠀
+
 <div align="center">
 Nubia de Sousa Carvalho:
 </div>
