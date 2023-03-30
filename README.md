@@ -48,4 +48,9 @@ Nubia de Sousa Carvalho:
 </div>
 
 
-##
+## Licença
+Copyright (©) 2022 StarHome,
+Todos os direitos reservados 
+
+Este produto é protegido por direitos autorais e distribuído sob
+licenças que restringem a cópia, distribuição e descompilação.
