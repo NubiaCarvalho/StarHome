@@ -6,17 +6,23 @@ StarHome é uma empresa de ferramentas eletrônicas para casa inteligente. É ba
 
 ## Funcionalidades
 ```
+1. Apresentação de produtos pelo site
+2. Vendas apenas online
+3. Oferecer um preço acessível pelos nossos produtos
+4. Divulgar o ideal de Smart House
 ```
 
 
 ## Tecnologias utilizadas
 ```
-● Microsoft Teams
-● Jira
-● SQL Server
-● Linguagem Java
-● React
-● Java Script
+1. Plan: Microsoft Teams
+2. Code: Atom (linguagem JavaScript) 
+3. Build: Maven
+4. Test: JUnit
+5. Release: Jenkins
+6. Deploy: DC/OS 
+7. Operate: CHEF
+8. Monitor: DataDog
 ```
 
 ## Colaboradores
