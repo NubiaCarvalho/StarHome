@@ -9,7 +9,7 @@ StarHome é uma empresa de ferramentas eletrônicas para casa inteligente. É ba
 ```
 
 
-##Tecnologias utilizadas
+## Tecnologias utilizadas
 ```
 ● Microsoft Teams
 ● Jira
